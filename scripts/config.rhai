@@ -1,5 +1,5 @@
 let titles_model = ["GNN", "LLM", "Graph"];
-let titles_method = ["accelerate", "train", "inference", "GPU"];
+let titles_method = ["accelerate", "training", "inference", "GPU"];
 // let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles = titles_model + titles_method + titles_type;
