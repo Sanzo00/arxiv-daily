@@ -1,9 +1,8 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["GNN", "LLM", "Graph"];
+let titles_method = ["accelerate", "train", "inference", "GPU"];
 // let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
-let titles_method = [""];
-let key_words = ["accelerate", "train", "inference", "GPU"];
-let titles =  titles_model + titles_method + titles_type + key_words;
+let titles_type = ["Dataset", "Survey", "Review", "Overview"];
+let titles = titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Zhuohan Li", "Lianmin Zheng", "Ying Sheng", "Ion Stoica"];
 
 let conferences = [
