@@ -1,5 +1,5 @@
 site_title = "ArxivDaily"
-limit_days = 7
+limit_days = 3
 cache_url = "https://Sanzo00.github.io/arxiv-daily/cache.json"
 
 [[sources]]
